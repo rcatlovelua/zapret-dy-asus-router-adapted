@@ -6,3 +6,9 @@
 
 .vscode/
 /build/
+*.exe
+*.dll
+*.sys
+WinDivert*
+cygwin1.dll
+winws.exe
