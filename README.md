@@ -7,8 +7,10 @@
 Форк [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) на базе [bol-van/zapret](https://github.com/bol-van/zapret)
 
 </div>
+
 ## Announcment:
 я сделал фулл бету осталось ее адаптировать для гитхаба, а так же хотел отметить что батники которые тут валяются - бесполезны просто мне лень их удалять
+
 > [!CAUTION]
 > Это не оффициальный zapret-discord-youtube
 > не доверяешь - уйди, но не хейти
